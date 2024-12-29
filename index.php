@@ -6,18 +6,6 @@ $streams = [
         'url' => 'welcome.mp3'
     ],
     [
-        'name' => 'Radio Navahang',
-        'url' => 'https://navairan.com/stream.nsv'
-    ],
-    [
-        'name' => 'Radio Farda',
-        'url' => 'https://n02.radiojar.com/cp13r2cpn3quv'
-    ],
-    [
-        'name' => 'Radio Simorgh',
-        'url' => 'https://stream-160.zeno.fm/9svfnobkrxrvv'
-    ],
-    [
         'name' => 'Radio Smooth Relax',
         'url' => 'https://21363.live.streamtheworld.com/SMOOTHRELAX_SYD_AAC.aac'
     ],
